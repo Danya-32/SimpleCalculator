@@ -165,20 +165,5 @@ namespace SimpleCalculator
         {
             TextBoxResult.Text = result.ToString();
         }
-
-        private void btnMemoryAdd(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnMemoryClear(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnMemoryRecall(object sender, EventArgs e)
-        {
-
-        }
     }
 }
