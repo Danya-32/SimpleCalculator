@@ -182,7 +182,6 @@
             this.button10.TabIndex = 12;
             this.button10.Text = "memAdd";
             this.button10.UseVisualStyleBackColor = true;
-            this.button10.Click += new System.EventHandler(this.btnMemoryAdd);
             // 
             // button11
             // 
@@ -192,7 +191,6 @@
             this.button11.TabIndex = 13;
             this.button11.Text = "memClear";
             this.button11.UseVisualStyleBackColor = true;
-            this.button11.Click += new System.EventHandler(this.btnMemoryClear);
             // 
             // button12
             // 
@@ -202,7 +200,6 @@
             this.button12.TabIndex = 14;
             this.button12.Text = "memRecall";
             this.button12.UseVisualStyleBackColor = true;
-            this.button12.Click += new System.EventHandler(this.btnMemoryRecall);
             // 
             // button13
             // 
